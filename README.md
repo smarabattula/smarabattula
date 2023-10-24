@@ -1,4 +1,6 @@
-### Hi there 👋
+<div style="width: 100%;">
+  <img src="animated_name.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 <!--
 **smarabattula/smarabattula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
