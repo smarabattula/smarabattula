@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p>
   <h3>My Contributions graph</h3>
   <div align="center">
-  <img alt="snak eating my contributions in the graph" src="https://github.com/varundeepakgudhe/varundeepakgudhe/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions in the graph" src="https://github.com/smarabattula/smarabattula/blob/output/github-contribution-grid-snake.svg">
   </div>
   <br/>
 </p>
