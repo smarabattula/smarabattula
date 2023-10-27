@@ -20,7 +20,6 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,r,matlab,ruby,cpp,html,css,javascript,bootstrap,php,react,nodejs,rails,mongodb,mysql,sqlite,aws,gcp,docker,kubernetes,netlify,pytorch,tensorflow,git,postman,vscode&perline=15)](https://skillicons.dev)
 
 ### My Github profile statistics
-<img src="https://github-readme-stats.vercel.app/api?username=smarabattula&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" alt="Github Stats" />
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarabattula&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" height="132px" width="240px" alt="GitHub Langs"/-->
 <img src="http://github-readme-streak-stats.herokuapp.com?user=smarabattula&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
