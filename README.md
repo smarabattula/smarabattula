@@ -1,20 +1,22 @@
 <div style="display: inline; width: 100%;">
-  <img src="animated_name.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="animated_name.svg" style="height: 20%; width: 100%;" alt="Click to see the source"> 
 </div>
-<p align="left">
+<p>
   <a href="https://github.com/smarabattula/smarabattula">
     <img src="https://komarev.com/ghpvc/?username=smarabattula&color=green" alt="profile views" />
   </a>
 </p>
-<br>
-<br>
 
-🚀 I’m currently working on Software Apps including web apps and building novel machine learning models.
+<img align = "right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
+🚀 I’m currently working on Software Apps including web apps and building novel machine learning models 
 
 🌱 I’m currently learning website design, cloud technologies 
 
-⚡ Fun fact: You can remember my name from the move The Shawshank redemption 😄
-
+⚡ Fun fact: You can remember my name from the move The Shawshank redemption 😄 
+ <br>
+ <br>
 ### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,r,matlab,ruby,cpp,html,css,javascript,bootstrap,php,react,nodejs,rails,mongodb,mysql,sqlite,aws,gcp,docker,kubernetes,netlify,pytorch,tensorflow,git,postman,vscode&perline=15)](https://skillicons.dev)
