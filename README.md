@@ -24,7 +24,6 @@
 ### My Github profile statistics
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarabattula&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" height="132px" width="240px" alt="GitHub Langs"/-->
 <img src="http://github-readme-streak-stats.herokuapp.com?user=smarabattula&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-
 [![Sasank's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=smarabattula&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/smarabattula/github-readme-stats#gh-dark-mode-only)
 [![Sasank's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=smarabattula&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/smarabattula/github-readme-stats#gh-light-mode-only)
 
@@ -32,7 +31,7 @@
   <p>
   <h3>My Contributions graph</h3>
   <div align="center">
-  <img alt="snake eating my contributions in the graph" src="https://github.com/smarabattula/smarabattula/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions in the graph" src="https://github.com/smarabattula/smarabattula/blob/output/github-contribution-grid-snake.svg"/>
   </div>
   <br/>
 </p>
