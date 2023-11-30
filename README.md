@@ -12,7 +12,7 @@
 
 🚀 I’m currently working on Software Apps including web apps and building novel machine learning models 
 
-🌱 I’m currently learning website design, cloud technologies 
+🌱 I’m currently learning website design, cloud technologies and SOTA instance segmentation
 
 ⚡ Fun fact: You can remember my name from the move The Shawshank redemption 😄 
  <br>
