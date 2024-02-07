@@ -1,6 +1,6 @@
 <div style="display: inline; width: 100%;">
   <img src="animated_name.svg" style="height: 20%; width: 100%;" alt="Click to see the source"> 
-</div>
+</div> 
 <p>
   <a href="https://github.com/smarabattula/smarabattula">
     <img src="https://komarev.com/ghpvc/?username=smarabattula&color=green" alt="profile views" />
