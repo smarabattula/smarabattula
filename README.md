@@ -18,7 +18,7 @@
  <br>
  <br>
 ### My Skills
-
+ 
 [![My Skills](https://skillicons.dev/icons?i=python,java,r,matlab,ruby,cpp,html,css,javascript,bootstrap,php,react,nodejs,rails,mongodb,mysql,sqlite,aws,gcp,docker,kubernetes,netlify,pytorch,tensorflow,git,postman,vscode&perline=15)](https://skillicons.dev)
 
 ### My Github profile statistics
