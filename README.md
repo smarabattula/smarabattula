@@ -1,4 +1,4 @@
-<div style="display: inline; width: 100%;"> 
+<div style="display: inline; width: 100%;">
   <img src="animated_name.svg" style="height: 20%; width: 100%;" alt="Click to see the source"> 
 </div>  
 <p> 
