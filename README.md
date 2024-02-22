@@ -9,7 +9,6 @@
 
 <img align = "right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-
 🚀 I’m currently working on Software Apps including web apps and building novel machine learning models 
 
 🌱 I’m currently learning website design, cloud technologies and SOTA instance segmentation
