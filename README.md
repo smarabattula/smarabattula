@@ -11,7 +11,7 @@
 
 🚀 I’m currently working on Software Apps including web apps and building novel machine learning models 
 
-🌱 I’m currently learning website design, cloud technologies and SOTA instance segmentation
+🌱 I’m currently learning website design, cloud technologies and SOTA instance segmentation in Machine Learning. I am adept at adapting to various technologies!
 
 ⚡ Fun fact: You can remember my name from the move The Shawshank redemption 😄 
  <br>
@@ -22,7 +22,7 @@
 [![](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,angular,react,javascript,ts,vite&perline=10)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=php,express,nodejs,flask,rails,mongodb,mysql,sqlite&perline=8)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,netlify&perline=8)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,git,gitlab,github,postman,vscode&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,git,gitlab,github&perline=8)](https://skillicons.dev)
 
 ### My Github profile statistics
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarabattula&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" height="132px" width="240px" alt="GitHub Langs"/-->
