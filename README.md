@@ -3,7 +3,7 @@
 </div> 
 <p>
   <a href="https://github.com/smarabattula/smarabattula">
-    <!--img src="https://komarev.com/ghpvc/?username=smarabattula&color=green" alt="profile views" />
+    <!--img src="https://komarev.com/ghpvc/?username=smarabattula&color=green" alt="profile views" /-->
   </a>
 </p>
 
