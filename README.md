@@ -9,11 +9,16 @@
 
 <img align = "right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🚀 I’m currently working on Software Apps including web apps and building novel machine learning models 
+A Software Developer & Cloud Engineer ☁️ passionate about building scalable apps, CI/CD pipelines & AI-powered solutions using Python / Java / JavaScript 😄.
 
-🌱 I’m currently learning website design, cloud technologies and SOTA instance segmentation in Machine Learning. I am adept at adapting to various technologies!
+🚀 I design & scale distributed applications 💻 with Python, Java & JavaScript on the cloud☁️.
 
-⚡ Fun fact: You can remember my name from the move The Shawshank redemption 😄 
+⚙️ I build CI/CD pipelines & automate 🔄 workflows for faster, reliable deployments📦.
+
+🤖 I leverage AI & ML to deliver impactful📊, real-world🌍 solutions.
+
+⚡ Fun fact: You can remember my name from the move The Shawshank redemption 😄
+
  <br>
  <br>
 ### My Skills
